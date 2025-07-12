@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rodric Chadza</h1>
+<h1 align="center">Hi, I'm Rodric Chadza</h1>
 <h3 align="center">A passionate software developer specializing in scalable responsive web apps and mobile apps.I also know modern technologies that helps to create efficient and user-friendly solutions. Dedicated to deliver high-quality interfaces and functionality that align with client's goal.</h3>
 
 - 🔭 I’m currently working on **a web app with ReactJS and other tools**
